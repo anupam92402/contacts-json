@@ -1,1 +1,16 @@
-hii
+{
+  "users": [
+    {
+      "name": "aman",
+      "number": "7838068202"
+    },
+     {
+      "name": "tarun",
+      "number": "7838068202"
+    },
+     {
+      "name": "yash",
+      "number": "7838068202"
+    }
+  ]
+}
